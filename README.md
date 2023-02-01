@@ -1,7 +1,7 @@
 # TECH4ME
 ![](https://www.tech4me.com.br/img/capa_tech4me_sociais.png)
-
-[Tech4me](Quem-somos) | 
+#PROJETO GALILEU - HTML, CSS, JAVASCRIPT, REACTJS
+[Tech4me](https://www.tech4me.com.br/) | Lorenna Caiaffa | [Linkedin](https://www.linkedin.com/in/lorenna-caiaffa-31a6b022a/)
 
 
  ## Quem somos?
@@ -12,3 +12,5 @@ Nos definimos como um centro de educação em tecnologia e inovação, com curso
 Por isso, vamos além. Aplicando conceitos fundamentais da computação, desenvolvemos e aprimoramos, de forma lúdica, divertida e para todas as idades, as competências que definem a formação do novo profissional digital.
 
 Seja bem-vindo à Tech4me.
+
+[Voltar para o início](#PROJETO-GALILEU---HTML,-CSS,-JAVASCRIPT,-REACTJS)
