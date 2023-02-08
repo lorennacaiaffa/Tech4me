@@ -17,3 +17,5 @@ Seja bem-vindo à Tech4me.
 > Gabriela Oliveira (Professora) | [Linkedin](https://www.linkedin.com/in/gabriela-oliveira-9a8aa51a9/)
  
 >Lorenna Caiaffa | [Linkedin](https://www.linkedin.com/in/lorenna-caiaffa-31a6b022a/)
+
+Em Homenagem a nossa incrível professora: 🎄 #Feliz Natal 🎄
