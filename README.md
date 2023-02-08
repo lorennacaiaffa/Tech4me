@@ -20,4 +20,6 @@ Seja bem-vindo à Tech4me.
 
 Em Homenagem a nossa incrível professora:
 
-## FELIZ NATAL 
+## FELIZ NATAL 🎄
+
+![](https://blog.vejaobra.com.br/wp-content/uploads/2021/12/Screen-Shot-2021-12-17-at-5.39.59-PM.png)
