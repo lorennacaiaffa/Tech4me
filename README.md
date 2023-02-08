@@ -18,4 +18,4 @@ Seja bem-vindo à Tech4me.
  
 >Lorenna Caiaffa | [Linkedin](https://www.linkedin.com/in/lorenna-caiaffa-31a6b022a/)
 
-Em Homenagem a nossa incrível professora: 🎄 #Feliz Natal 🎄
+Em Homenagem a nossa incrível professora: 🎄 # Feliz Natal 🎄
