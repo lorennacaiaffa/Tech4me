@@ -20,5 +20,5 @@ Seja bem-vindo à Tech4me.
 
 Em Homenagem a nossa incrível professora:
 
-## FELIZ NATAL 🎄
-![](https://br.seaicons.com/wp-content/uploads/2017/04/christmas-tree-icon-7.png)
+# FELIZ NATAL 🎄💫❤️
+
