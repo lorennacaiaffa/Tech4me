@@ -21,4 +21,4 @@ Seja bem-vindo à Tech4me.
 Em Homenagem a nossa incrível professora:
 
 ## FELIZ NATAL 🎄
-![](https://e7.pngegg.com/pngimages/503/414/png-clipart-christmas-tree-christmas-tree.png)
+![](https://br.seaicons.com/wp-content/uploads/2017/04/christmas-tree-icon-7.png)
