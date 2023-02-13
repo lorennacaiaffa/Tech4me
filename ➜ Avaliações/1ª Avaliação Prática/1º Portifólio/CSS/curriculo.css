@@ -1,0 +1,72 @@
+*{font-family: 'Montserrat', sans-serif;
+color: floralwhite;}
+
+
+body{
+    background-color: rgb(6, 111, 65);
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-family: cheops;
+    font-size: 5em;
+    color: floralwhite;
+}
+
+p{
+    text-align: center;
+    color: floralwhite;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+    line-height: 30px;
+    font-size: 1em;
+    font-weight: 100;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 50px;
+    border: 3px solid floralwhite;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    
+
+}
+.eu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+   
+}
+.titulo{
+    text-align: center;
+    color: floralwhite;
+    margin-bottom: 30px;
+    font-size: 3em;
+}
+
+.tabela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 75px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.lista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.trabalhos{
+text-align: center;
+font-size: 2em;
+
+}

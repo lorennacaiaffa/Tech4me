@@ -1,0 +1,67 @@
+*{font-family: 'Montserrat', sans-serif;
+    color: floralwhite;}
+    
+    
+    body{
+        background-color: rgb(6, 111, 65);
+    }
+    
+    
+    h1{
+        text-align: center;
+        margin-top: 100px;
+        font-family: cheops;
+        font-size: 5em;
+        color: floralwhite;
+    }
+
+    p{
+        
+        color: floralwhite;
+        font-family: 'Montserrat', sans-serif;
+        letter-spacing: 5px;
+        line-height: 30px;
+        font-size: 1em;
+        font-weight: 100;
+    }
+
+ul{
+    display: inline-block; 
+    margin-left: 50px;
+    text-align: justify;
+    margin-bottom: 120px;
+    font-family: cheops;
+    list-style-type: circle;
+    
+}
+
+.caixa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.definicao{
+    width: 50%;
+    margin: auto;
+    
+ }
+
+.gosto{
+    margin-right: 50px;
+
+}
+
+.series{
+    margin-left: 1px;
+}
+
+
+.livros{
+    margin-left: 33px;
+}
+
+.comida{
+    margin-right: 10px;
+}

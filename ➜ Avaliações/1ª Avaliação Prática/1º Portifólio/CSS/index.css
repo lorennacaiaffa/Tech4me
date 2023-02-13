@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(6, 111, 65);
+}
+
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-family: cheops;
+    font-size: 5em;
+    color: floralwhite;
+}
+
+h2{
+    text-align: center;
+    color: floralwhite;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+    font-size: 1em;
+}
+
+button {
+    text-align: center;
+    font-size: 16px;
+   font-weight: 200;
+   letter-spacing: 1px;
+   padding: 13px 20px 13px;
+   outline: 0;
+   border: 1px solid black;
+  cursor: pointer;
+  position: relative;
+  background-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 30px;
+  
+  
+}
+
+button:after {
+  content: "";
+  background-color:rgb(222, 220, 220);
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  height: 100%;
+  top: 7px;
+  left: 7px;
+  transition: 0.2s;
+}
+
+button:hover:after {
+  top: 0px;
+  left: 0px;
+}
+
+@media (min-width: 768px) {
+  button{
+    padding: 13px 50px 13px;
+  }
+
+}
+
+.botao{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+
+footer{
+text-align: center;
+margin-top: 300px;
+color: floralwhite;
+font-family: 'Montserrat', sans-serif;
+letter-spacing: 10px;
+
+}
