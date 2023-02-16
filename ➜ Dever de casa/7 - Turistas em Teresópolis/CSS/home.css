@@ -1,0 +1,100 @@
+body{
+  background-color:  rgba(21, 91, 58, 0.661);
+  margin: 0;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+  }
+  
+  #image {
+    width: 2000px;
+    height: 600px; 
+    margin-top: -100px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #texto {
+    text-align: center;
+    position: relative;
+    color: floralwhite;
+    font-size: 8em;
+    font-family: saint;
+    margin-top: 60px;
+    position: absolute;
+    left: 100px;
+    top: 135px;
+  }
+
+  button {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    padding: 13px 20px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    }
+    
+    button:after {
+    content: "";
+    background-color:floralwhite;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 7px;
+    left: 7px;
+    transition: 0.2s;
+    }
+    
+    button:hover:after {
+    top: 0px;
+    left: 0px;
+    }
+    
+    @media (min-width: 768px) {
+    button{
+    padding: 13px 50px 13px;
+    }
+    
+    }
+    
+    .botao{
+    text-align: center;
+    margin-top: 100px;
+    size: 4em;
+    }
+    
+    footer{
+    text-align: center;
+    color: floralwhite;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    
+    }
+    
+    h1{
+    color: floralwhite;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    }
+    
+    p{
+    text-align: center;
+    color: floralwhite;
+    font-family: 'Montserrat', sans-serif;
+    
+    }
