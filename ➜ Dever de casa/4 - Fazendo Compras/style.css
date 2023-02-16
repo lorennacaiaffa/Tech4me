@@ -1,0 +1,32 @@
+* body{ 
+background-color: rgba(95, 116, 26, 0.529);
+}
+
+h1{
+    text-align: center;
+    color: floralwhite;
+    font-size: 6em;
+
+}
+
+ol{
+    text-align: center;
+    color: floralwhite;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    text-align: justify;
+
+}
+
+.img{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+img{
+    border-radius: 10px;
+    
+}
