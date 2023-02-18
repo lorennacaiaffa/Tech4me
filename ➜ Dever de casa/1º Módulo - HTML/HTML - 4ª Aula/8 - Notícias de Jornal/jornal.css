@@ -1,0 +1,55 @@
+body{
+background-color: blanchedalmond;
+font-family: 'Montserrat', sans-serif;
+}
+
+#jornal{
+    text-align: center;
+    font-size: 7em;
+    font-family: 'Special Elite';
+    color: rgba(0, 0, 0, 0.739);
+}
+
+h2{
+    color: rgba(0, 0, 0, 0.739);
+    background-color: rgba(128, 128, 128, 0.325);
+    display:inline-block;
+    font-size:medium
+    }
+
+p{
+  font-size: small;  
+}
+
+.e3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    justify-content: space-around;
+    position: relative;
+    
+}
+
+.impect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    justify-content: space-around;
+   position: relative;
+}
+
+.imgg{
+
+    margin-left: 700px;
+    margin-top: -950px;
+}
+
+
+img{
+    border-radius: 10px;
+   
+   
+    
+}
