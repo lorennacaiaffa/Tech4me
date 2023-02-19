@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(160, 236, 236);
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 5em;
+}
+
+.frase{
+    text-align: center;
+    font-size: 3em;
+}
+
+.button {
+  text-align: center;
+  appearance: button;
+  background-color: #000000d2;
+  background-image: none;
+  border: 1px solid #000;
+  border-radius: 4px;
+  box-shadow: #fff 4px 4px 0 0,#000 4px 4px 0 1px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: 10px;
+  line-height: 8px;
+  overflow: visible;
+  text-transform: none;
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+ 
+  
+  
+}
+
+.button:focus {
+  text-decoration: none;
+}
+
+.button:hover {
+  text-decoration: none;
+}
+
+.button:active {
+  box-shadow: rgba(0, 0, 0, .125) 0 3px 5px inset;
+  outline: 0;
+}
+
+.button:not([disabled]):active {
+  box-shadow: #fff 2px 2px 0 0, #000 2px 2px 0 1px;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button {
+    padding: 12px 50px;
+  }
+}
+
+Enviar{
+    text-align: center;
+}
+
+.conteiner{
+ margin-left: 100px;
+    
+  }
+
+h3{
+  text-align: center;
+  margin-top: 200px;
+}  
+
+p{
+  text-align: center;
+  
+}
+
+footer{
+  text-align: center;
+  margin-top: 100px;
+}
