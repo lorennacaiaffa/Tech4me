@@ -1,0 +1,61 @@
+*body{
+    background-image: linear-gradient(to right, #e0faf7, #ddf1f9);
+    font-family: 'Montserrat', sans-serif;
+
+   }
+
+.container {
+    position: relative;
+  }
+  
+  .texto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: floralwhite;
+    font-size: 7em;
+    font-family: ferias;
+  }
+  
+ .foto {
+    opacity: 0.7;
+    height: -30px;
+    width: 1610px;
+    border: none;
+  }
+
+
+  .titulos{
+    display: flex;
+    justify-content: space-around;
+    font-size: 4em;
+    margin-top: 100px;
+    color: rgb(16, 79, 58);
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.imagens{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+   
+}
+
+
+ img{
+    height: 300px;
+    width: 500px;
+  
+ } 
+
+
+ .textos{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 25px;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5px;
+    
+ }

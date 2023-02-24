@@ -1,0 +1,47 @@
+*{
+    font-family: chique;
+}
+
+
+table, th, td {
+    border:2px solid rgb(255, 255, 255);
+    margin-bottom: 100px;
+    width: 1000px;
+    font-size: 30px;
+    background-color:rgb(155, 204, 248) ;
+    
+  }
+
+.tabela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.titulo{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.comando{
+    background-color: rgb(90, 158, 203);
+    color: black;
+    text-align: center;
+}
+
+.num{
+    background-color: grey;
+    color: black;
+    text-align: center;
+
+}
+
+.rest{
+    background-color: rgb(155, 204, 248);
+    color: rgb(22, 94, 136);
+    text-align: center;
+}

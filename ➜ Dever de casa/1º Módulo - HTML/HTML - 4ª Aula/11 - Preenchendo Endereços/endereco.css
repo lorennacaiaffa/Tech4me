@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(15, 163, 151, 0.525);
+    font-family: 'Montserrat', sans-serif;
+    color: floralwhite;
+
+}
+
+h1{
+   text-align: center;
+   font-size: 5em;
+   font-family: fut;
+   color: floralwhite;
+}
+
+form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid floralwhite;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid floralwhite;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  input[type="checkbox"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: floralwhite;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color:#3e8e41;
+}

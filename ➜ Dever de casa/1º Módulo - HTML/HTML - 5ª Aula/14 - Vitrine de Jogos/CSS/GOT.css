@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+img{
+    width: 1642px;
+    height: 400px;
+}
+
+h1{
+    color: rgb(105, 80, 30);
+    text-align: center;
+    margin-top: 100px;
+    font-family: jogo;
+}
+
+.avatares{
+display: flex;
+justify-content: space-around;
+margin-top: 100px;
+margin-bottom: 30px;
+   
+}
+
+.got_{
+
+    width: 200px;
+    height:200px
+    
+}
+
+p{
+    color: rgb(105, 80, 30);
+    font-family: jogo;
+    font-size: 20px;
+
+}
+
+.nomes{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+
+}

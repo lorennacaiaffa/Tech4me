@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/5199/5199948.png">
+    <link rel="stylesheet" href="endereco.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+    
+    <title>Preenchendo Endereços</title>
+
+    <style>
+        @font-face {
+          font-family: "fut" ;
+          src: url("./cheops\ elegant\ regular.otf");}
+        </style>
+
+</head>
+<body>
+    <h1>Cadastro de Compras</h1>
+    
+    <form>
+      <label for="Rua"><b>Rua:</b></label>
+      <input type="text" id="nome" name="rua"><br>
+    
+      <label for="numero"><b>Número</b></label>
+      <input type="text" id="numero" name="numero"><br>
+    
+      <label for="bairro"><b>Bairro</b></label>
+      <input type="text" id="bairro" name="bairro"><br>
+    
+      <label for="mensagem"><b>Cidade</b></label>
+      <input type="text" id="cidade" name="cidade"><br>
+    
+      <label for="estado"><b>Estado:</b></label>
+      <select id="estado" name="estado">
+        <option value="AC">Acre - AC</option>
+        <option value="AL">Alagoas - AL</option>
+        <option value="AP">Amapá - AP</option>
+        <option value="AM">Amazonas - AM</option>
+        <option value="BA">Bahia - BA</option>
+        <option value="CE">Ceará - CE</option>
+        <option value="DF">Distrito Federal - DF</option>
+        <option value="ES">Espírito Santo - ES</option>
+        <option value="GO">Goiás - GO</option>
+        <option value="MA">Maranhão - MA</option>
+        <option value="MT">Mato Grosso - MT</option>
+        <option value="MS">Mato Grosso do Sul - MS</option>
+        <option value="MG">Minas Gerais - MG</option>
+        <option value="PA">Pará - PA</option>
+        <option value="PB">Paraíba - PB</option>
+        <option value="PR">Paraná - PR</option>
+        <option value="PE">Pernambuco - PE</option>
+        <option value="PI">Piauí - PI</option>
+        <option value="RJ">Rio de Janeiro - RJ</option>
+        <option value="RN">Rio Grande do Norte - RN</option>
+        <option value="RS">Rio Grande do Sul - RS</option>
+        <option value="RO">Rondônia - RO</option>
+        <option value="RR">Roraima - RR</option>
+        <option value="SC">Santa Catarina - SC</option>
+        <option value="SP">São Paulo - SP</option>
+        <option value="SE">Sergipe - SE</option>
+        <option value="TO">Tocantins - TO</option>
+      </select>
+    
+      <label for="endereço"><b>O endereço de entrega é o mesmo de cobrança?</b></label>
+      <input type="checkbox" id="endereço" name="endereço" value="sim"><br>
+    
+      <input type="submit" value="Incluir endereço">
+    </form>
+    
+  
+  
+  
+</body>
+</html>
