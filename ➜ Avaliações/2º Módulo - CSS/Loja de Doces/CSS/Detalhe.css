@@ -1,0 +1,114 @@
+body {
+    background-color:#FCEBE6;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 150px;
+    font-family: doce;
+    margin-top: -10px;
+    color: #FFA07A;
+    text-shadow: 5px 5px #4e3624;
+    letter-spacing: 5px;
+   
+  }
+
+div {
+    display: flex;
+    justify-content: center;
+    transition: transform 0.1s ease;
+    
+
+}
+
+img {
+  height: 400px;
+  width: 600px;
+  margin-top: -50px;
+  
+}
+
+.conteiner:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}
+.pai{
+  width: 100%; 
+}
+
+.brigadeiro {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+
+@keyframes move {
+  from {left: 0px;}
+  to {left: 20px;}
+}
+
+
+button{
+  width: 500px;
+  height: 50px ;
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+  
+}
+
+.button-buy {
+  background-color: #fbeee0;
+  border: 2px solid #FFA07A;
+  border-radius: 30px;
+  box-shadow: #FFA07A 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 300;
+  font-size: 18px;
+  padding: 0 18px;
+  width: 10px;
+  height: 50px ;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-buy:hover {
+  background-color: #fff;
+}
+
+.button-buy:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button-buy {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+}
+
+
+p{
+    text-align: center;
+  }
+
+  footer {
+    background-color: #FEDCD2;
+    text-align: center;
+    padding: 10px;
+  }    

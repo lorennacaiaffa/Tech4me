@@ -1,0 +1,15 @@
+button {
+   border-radius: 10px;
+    opacity: 0.8;
+    transition: opacity 4s ease;
+    transition: width 3s, heigth 3s;
+    width: 140px; 
+    height: 140px
+  }
+  
+button:hover {
+    opacity: 2;
+    transition: opacity 4s ease;
+    width: 150px; 
+    height: 150px
+  }

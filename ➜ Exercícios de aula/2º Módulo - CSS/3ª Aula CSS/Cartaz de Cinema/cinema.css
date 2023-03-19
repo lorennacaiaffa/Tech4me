@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to right, #3b0101, #5c2e2e, #3b0101);
+    font-family: jogo;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 10em;
+    font-family: filme;
+    color: goldenrod;
+    
+}
+
+img{
+    width: 450px;
+    height: 500px;
+    border: solid 10px rgb(137, 6, 6);
+    border-radius: 7px;
+    padding: 6px;
+    margin-bottom: 10px;
+    margin: 5px;
+}
+
+.cartaz{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    
+}
+
+footer{
+    text-align: center;
+    color: floralwhite;
+    size: 2em;
+    margin-top: 20px;
+}

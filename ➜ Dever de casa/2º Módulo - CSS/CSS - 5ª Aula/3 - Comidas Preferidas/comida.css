@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(141, 141, 141);
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-size: 4em;
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+    
+}
+.verde{
+background-color: #80d0c7;
+border-radius: 50px;
+padding: 6px;
+}
+
+.azul{
+background-color: #8ec5fc;
+border-radius: 50px;
+padding: 6px;
+}
+
+.roxo{
+background-color: #e0c3fc;
+border-radius: 50px;
+padding: 6px;
+}
+
+.lilas{
+background-color: #f0dff6;
+border-radius: 50px;
+padding: 6px;
+}
+
+.rosa{
+background-color: #f6e6f2;
+border-radius: 50px;
+padding: 6px;
+}
+
+
+#conteiner{
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: 1em;
+    color: aliceblue;
+    margin-top: 100px;
+    animation: aumentar 6s ease-in-out;
+
+}
+
+@keyframes aumentar {
+from {
+    width: 20px;
+}
+to{
+    width: 500px;
+}
+
+}

@@ -1,0 +1,57 @@
+body{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(129, 217, 223);
+}
+h1{
+font-size: 5em;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+color: floralwhite;
+text-shadow: 5px 5px 5px gray;
+
+}
+
+.vermelho{
+width: 100%;
+height: 20px;
+background: red;
+}
+
+.laranja{
+    width: 90%;
+    height: 20px;
+    background: orange;
+}
+
+.amarelo{
+    width: 80%;
+    height: 20px;
+    background: yellow;
+}
+
+.verde{
+    width: 70%;
+    height: 20px;
+    background: green;
+}
+
+.azul{
+    width: 60%;
+    height: 20px;
+    background: cornflowerblue;
+}
+
+.anil{
+    width: 50%;
+    height: 20px;
+    background: rgb(47, 41, 145);
+
+}
+
+.violeta{
+    width: 40%;
+    height: 20px;
+    background: rgb(76, 8, 110);
+}

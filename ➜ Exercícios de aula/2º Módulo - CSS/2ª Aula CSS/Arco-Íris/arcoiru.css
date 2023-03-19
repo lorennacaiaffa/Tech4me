@@ -1,0 +1,40 @@
+table{
+
+   color: aqua;
+   size: 4em;
+}
+
+
+
+#titulo{
+color: rgb(58, 12, 100);
+
+}
+
+.vermelho{
+background: rgb(250, 18, 18);
+}
+
+.laranja{
+    background: rgb(247, 165, 11);
+}
+
+.amarelo{
+    background: rgb(249, 249, 15);
+}
+
+.verde{
+    background: rgb(4, 165, 4);
+}
+
+.azul{
+    background: rgb(57, 111, 141);
+}
+
+.anil{
+    background: rgb(25, 8, 183);
+}
+
+.violeta{
+    background: rgb(62, 6, 152);
+}

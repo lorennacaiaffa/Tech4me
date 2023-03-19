@@ -1,0 +1,183 @@
+body {
+   background-color: #FCEBE6;
+   font-family: 'Montserrat', sans-serif;
+   
+  }
+  
+
+header {
+    margin: -15px;
+    background-color: #FEDCD2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+h1 {
+    font-size: 80px;
+    text-transform: uppercase;
+    color: #FFA07A;
+    text-shadow: 5px 5px #4e3624;
+    font-family: doce;
+    letter-spacing: 5px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+  
+  
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-right: 20px;
+  }
+  
+  
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+  }
+
+nav ul li:hover{
+    color: #FFA07A;
+  }
+
+a:hover{
+    color: #FFA07A;
+  }
+
+a{
+  text-decoration: none;
+  color: #422800;
+  
+}
+.cards-conteiner{ 
+display: flex;
+
+margin-top: 100px;
+
+}
+
+img{
+    
+  height: 200px;
+  width: 290px;
+  border-radius: 10px;
+  border-style:dotted;
+  border-width: 7px;
+  border-color: #FFA07A;
+     
+ }
+ 
+h2{
+color: #FFA07A;
+font-size: 30px;
+text-align: center;
+
+}
+
+.button-buy {
+  background-color: #fbeee0;
+  border: 2px solid #FFA07A;
+  border-radius: 30px;
+  box-shadow: #FFA07A 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 300;
+  font-size: 18px;
+  padding: 0 18px;
+  width: 10px;
+  height: 50px ;
+  margin-left: 100px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-buy:hover {
+  background-color: #fff;
+}
+
+.button-buy:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button-buy {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+}
+
+
+.promo {
+  background-color: #FCEBE6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  margin-top: 30px;
+}
+
+.promo-text {
+  max-width: 500px;
+}
+
+
+.promo h2 {
+  margin-bottom: 20px;
+  margin-left: -5px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.promo form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.promo input[type="email"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.promo label {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.promo button[type="submit"] {
+  background-color: #FFA07A;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+ 
+}
+
+button{
+  width: 500px;
+  height: 50px ;
+  
+  
+}
+
+footer {
+background-color: #FEDCD2;
+text-align: center;
+padding: 10px;
+
+}

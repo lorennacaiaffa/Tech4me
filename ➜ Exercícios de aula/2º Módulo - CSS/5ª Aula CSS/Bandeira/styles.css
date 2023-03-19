@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    display: flex   ;
+    justify-content: center;
+}
+#bandeira-japao{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+.bola{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(251, 6, 6);
+    border-radius: 50%;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(70, 70, 70);
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 3em;
+    color: floralwhite;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.loader {
+   
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 5px solid #ccc;
+    border-top-color: #36e7f4;
+    animation-name: spin;
+    animation-duration: 1s;
+    animation: spin 1s infinite;
+  }
+  
+  @keyframes spin {
+    from {
+      transform: rotate(0);
+      border-width: 5px;
+    }
+    to {
+      transform: rotate(360deg);
+      border-width: 15px;
+      border-top-color: #06585d;
+    }
+  }
+  
+  
